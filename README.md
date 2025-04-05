@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, and passionate about **Site Reliability Engineering (SRE)**. My goal is to build robust systems, optimize business processes, and apply technological solutions that make a difference.
 
----
 
 ## 🚀 About Me
 
@@ -11,7 +10,6 @@ Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, an
 - 🛠️ **Tech Stack**: .NET Core, Python, Docker, Kubernetes, Azure, and GitLab CI/CD are my go-to tools.
 - 🌱 Currently studying Data Engineering at UTN.BA to further expand my knowledge.
 
----
 
 ## 🛠️ Technical Skills
 
@@ -22,7 +20,6 @@ Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, an
 - **System design**: Complete development using clean code's practices.
 - **Architecture**: All of my developments are allocated in docker containers to optimize the resources and the control for te reliability
 
----
 
 - 🔭 I’m currently working as an Infrastructure Engineer, focusing on monitoring and networking.
 - 🌱 I’m currently learning about Data Lakehouses, Kafka, and Databricks, as well as expanding my skills with AWS.
@@ -32,20 +29,17 @@ Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, an
 - 📫 How to reach me: [gabmondino@gmail.com](mailto:gabmondino@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gabriel-mondino/).
 - ⚡ Fun fact: I enjoy mentoring others in tech and exploring innovative solutions for complex problems.
 
----
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mondin0&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mondin0&layout=compact&theme=dark)
 
----
 
 ## 🌐 Connect with Me
 
 - 📧 Email: [gabmondino@gmail.com](mailto:gabmondino@gmail.com)
 - 💼 LinkedIn: [Gabriel Mondino](https://www.linkedin.com/in/gabriel-mondino/)
 
----
 
 ### 💡 "In these ever-changing times of technology, the fundamentals remain the same, Linux is still the behind the scenes of everything."

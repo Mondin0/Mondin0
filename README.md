@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Gabriel Matías Mondino
 
-Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, and passionate about **Site Reliability Engineering (SRE)**. My goal is to build robust systems, optimize business processes, and apply technological solutions that make a difference.
+Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, [**Microsoft Certified: Azure Data Scientist Associate**](https://learn.microsoft.com/es-es/users/gabrielmondino-9980/credentials/fd51c6f79d872b34?ref=https%3A%2F%2Fwww.linkedin.com%2F) and passionate about **Site Reliability Engineering (SRE)**. My goal is to build robust systems, optimize business processes, and apply technological solutions that make a difference.
 
 
 ## 🚀 About Me
 
 - 🎯 **SRE Philosophy**: I'm passionate about designing resilient infrastructures, automating processes, and ensuring system availability.
 - 📊 **Data Engineering**: I transform data into actionable insights, developing efficient pipelines and exploring advanced models.
-- 🛠️ **Tech Stack**: .NET Core, Python, Docker, Kubernetes, Azure, and GitLab CI/CD are my go-to tools.
-- 🌱 Currently studying Data Engineering at UTN.BA to further expand my knowledge.
+- 🛠️ **Tech Stack**: .NET Core, Python, Docker, Kubernetes, Azure, Proxmox, Checkmk, Golang and GitLab CI/CD are my go-to tools.
+- 🌱 Data Engineer at UTN.BA.
 
 
 ## 🛠️ Technical Skills

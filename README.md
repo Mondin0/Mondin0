@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, [*
 
 - 🎯 **SRE Philosophy**: I'm passionate about designing resilient infrastructures, automating processes, and ensuring system availability.
 - 📊 **Data Engineering**: I transform data into actionable insights, developing efficient pipelines and exploring advanced models.
-- 🛠️ **Tech Stack**: .NET Core, Python, Docker, Kubernetes, Azure, Proxmox, Checkmk, Golang and GitLab CI/CD are my go-to tools.
+- 🛠️ **Tech Stack**: .NET Core, Laravel, Angular, Python, Docker, Kubernetes, Azure, Proxmox, Checkmk, Golang and GitLab CI/CD are my go-to tools.
 - 🌱 Data Engineer at UTN.BA.
 
 

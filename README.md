@@ -80,13 +80,6 @@ I'm open to collaborating on:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mondin0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mondin0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
----
-
 ⚡ **Fun fact**: I've been into AI since GPT-2 days and love mentoring engineers on SRE culture, incident response, and production-grade AI systems.
 ## 🌐 Connect with Me
 

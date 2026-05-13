@@ -1,45 +1,97 @@
 # 👋 Hi, I'm Gabriel Matías Mondino
 
-Welcome to my GitHub profile! I'm a **Backend Developer**, **Data Engineer**, [**Microsoft Certified: Azure Data Scientist Associate**](https://learn.microsoft.com/es-es/users/gabrielmondino-9980/credentials/fd51c6f79d872b34?ref=https%3A%2F%2Fwww.linkedin.com%2F) and passionate about **Site Reliability Engineering (SRE)**. My goal is to build robust systems, optimize business processes, and apply technological solutions that make a difference.
+**AI Infrastructure Engineer | MLOps | SRE | Data Platform Engineer**
 
+I design, build, and operate production AI platforms, data pipelines, and cloud-native infrastructure with a strong focus on reliability, observability, and automation. Currently working on semantic search over 1M+ clinical documents, ELT pipelines processing 500K daily records, and end-to-end SRE for critical healthcare systems.
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--mondino-blue)](https://www.linkedin.com/in/gabriel-mondino/)
+[![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure_Data_Scientist-0078D4)](https://learn.microsoft.com/es-es/users/gabrielmondino-9980/credentials/fd51c6f79d872b34)
+[![Email](https://img.shields.io/badge/Email-gabmondino%40gmail.com-red)](mailto:gabmondino@gmail.com)
 
-- 🎯 **SRE Philosophy**: I'm passionate about designing resilient infrastructures, automating processes, and ensuring system availability.
-- 📊 **Data Engineering**: I transform data into actionable insights, developing efficient pipelines and exploring advanced models.
-- 🛠️ **Tech Stack**: .NET Core, Laravel, Angular, Python, Docker, Kubernetes, Azure, Proxmox, Checkmk, Golang and GitLab CI/CD are my go-to tools.
-- 🌱 Data Engineer at UTN.BA.
+---
 
+## 🚀 What I Do
 
-## 🛠️ Technical Skills
+- **AI Infrastructure & MLOps**: Production AI pipelines with Ollama, Qdrant, LangChain, RAG workflows, and semantic search at scale
+- **Site Reliability Engineering**: 99.95% uptime on critical systems, observability stacks (Grafana, Prometheus, Loki, CheckMK), incident response, SLA/SLI/SLO-driven operations
+- **Data Engineering & Orchestration**: ETL/ELT pipelines with Apache Airflow, n8n, dbt, Snowflake, Databricks; Medallion Architecture, CDC, dimensional modeling
+- **Cloud & Platform Engineering**: Kubernetes (k3s), Docker, Proxmox, Terraform, Ansible, CI/CD (Jenkins, GitLab, GitHub Actions), multi-cloud (AWS, Azure, GCP)
 
-- **Backend Development**: Designing and developing scalable REST APIs with .NET Core, python and Azure.
-- **DevOps & SRE**: Configuring Docker environments, developing CI/CD pipelines with GitLab, and optimizing deployments to reduce times and improve reliability.
-- **Data Engineering**: Automating business processes and efficiently handling large datasets with open-source tools.
-- **Frontend**: Complete development of web applications in Angular and deployment in containers.
-- **System design**: Complete development using clean code's practices.
-- **Architecture**: All of my developments are allocated in docker containers to optimize the resources and the control for te reliability
+---
 
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working as an Infrastructure Engineer, focusing on monitoring and networking.
-- 🌱 I’m currently learning about Data Lakehouses, Kafka, and Databricks, as well as expanding my skills with AWS.
-- 👯 I’m looking to collaborate on open-source projects related to monitoring tools on GitHub.
-- 🤔 I’m looking for help with optimizing my Kafka configurations and exploring advanced Databricks features.
-- 💬 Ask me about infrastructure monitoring, networking, or anything related to backend development and data engineering.
-- 📫 How to reach me: [gabmondino@gmail.com](mailto:gabmondino@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gabriel-mondino/).
-- ⚡ Fun fact: I enjoy mentoring others in tech and exploring innovative solutions for complex problems.
+**AI / MLOps**  
+Ollama • Qdrant • LangChain • RAG • Semantic Search • Azure ML • n8n AI Pipelines
 
+**Data Engineering**  
+Python • SQL • PySpark • Apache Airflow • dbt • Snowflake • Databricks • Azure Data Lake • CDC • SCD Type 2
+
+**Infrastructure & SRE**  
+Kubernetes (k3s) • Docker • Proxmox • Nginx • Vault • Nexus • SonarQube • Terraform • Ansible
+
+**Observability & Monitoring**  
+Grafana • Prometheus • Loki • Alloy • CheckMK • ELK • Alertmanager • Slack Alerting
+
+**Cloud & Automation**  
+AWS (S3, EC2) • Azure • GCP • Jenkins • GitLab CI/CD • GitHub Actions • Bash • Linux
+
+**Backend development**  
+Django / FastAPI • .NET • Golang • NestJS 
+
+---
+
+## 🔥 Recent Highlights
+
+- 🧠 Built **semantic search** over **1M+ administrative documents** using Ollama + Qdrant, reducing manual lookup by 60%
+- ⚡ Reduced **MTTD from 30 min to <5 min** with CheckMK + Grafana + Slack observability stack
+- 🚀 Decreased **deployment time from 2h to 15min** with CI/CD platform (Jenkins, Vault, Nexus, SonarQube)
+- 🎯 Achieved **99.95% uptime** on critical medical prescription system (10K transactions/day)
+- 🏗️ Migrated **6 production projects** to self-hosted Proxmox with **zero downtime**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **LLM orchestration** patterns (LangGraph, multi-agent systems)
+- **Kafka** for real-time AI inference pipelines
+- **Databricks** for scalable ML feature engineering
+- AWS-native AI/ML services (SageMaker, Bedrock)
+- Rust development
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+- Open-source **observability tools** and SRE utilities
+- **AI infrastructure** projects (RAG, semantic search, vector DBs)
+- **Data platform** tooling (Airflow operators, dbt packages, workflow automation)
+- **Platform engineering** initiatives (IaC, GitOps, Kubernetes operators)
+- **Backend solutions** using the necessary tools to achieve results
+
+---
+
+## 📫 Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-mondino/)
+- 📧 [gabmondino@gmail.com](mailto:gabmondino@gmail.com)
+- 🐙 [GitHub](https://github.com/Mondin0)
+
+---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mondin0&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mondin0&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mondin0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mondin0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
+---
 
+⚡ **Fun fact**: I've been into AI since GPT-2 days and love mentoring engineers on SRE culture, incident response, and production-grade AI systems.
 ## 🌐 Connect with Me
 
 - 📧 Email: [gabmondino@gmail.com](mailto:gabmondino@gmail.com)
 - 💼 LinkedIn: [Gabriel Mondino](https://www.linkedin.com/in/gabriel-mondino/)
 
 
-### 💡 "In these ever-changing times of technology, the fundamentals remain the same, Linux is still the behind the scenes of everything."
+### 💡 "Technology changes fast, but the fundamentals stay the same: Linux runs everything that matters."

@@ -1,90 +1,86 @@
-# 👋 Hi, I'm Gabriel Matías Mondino
+# Hi, I'm Gabriel Mondino
 
-**AI Infrastructure Engineer | MLOps | SRE | Data Platform Engineer**
+**Platform & Infrastructure Engineer | Reliability · Observability · Automation**
 
-I design, build, and operate production AI platforms, data pipelines, and cloud-native infrastructure with a strong focus on reliability, observability, and automation. Currently working on semantic search over 1M+ clinical documents, ELT pipelines processing 500K daily records, and end-to-end SRE for critical healthcare systems.
+🌐 **[gabrielmondino.com.ar](https://gabrielmondino.com.ar/)**  
+[LinkedIn](https://www.linkedin.com/in/gabriel-mondino/) · [GitHub](https://github.com/Mondin0) · [Email](mailto:gabmondino@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--mondino-blue)](https://www.linkedin.com/in/gabriel-mondino/)
-[![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure_Data_Scientist-0078D4)](https://learn.microsoft.com/es-es/users/gabrielmondino-9980/credentials/fd51c6f79d872b34)
-[![Email](https://img.shields.io/badge/Email-gabmondino%40gmail.com-red)](mailto:gabmondino@gmail.com)
+I work across **platform engineering, infrastructure and backend systems**, with hands-on experience operating Linux environments, containerized workloads, databases, networking, monitoring and production services.
 
----
+My focus is improving **reliability, observability, deployment workflows and infrastructure automation**, while solving problems across the application and infrastructure stack.
 
-## 🚀 What I Do
-
-- **AI Infrastructure & MLOps**: Production AI pipelines with Ollama, Qdrant, LangChain, RAG workflows, and semantic search at scale
-- **Site Reliability Engineering**: 99.95% uptime on critical systems, observability stacks (Grafana, Prometheus, Loki, CheckMK), incident response, SLA/SLI/SLO-driven operations
-- **Data Engineering & Orchestration**: ETL/ELT pipelines with Apache Airflow, n8n, dbt, Snowflake, Databricks; Medallion Architecture, CDC, dimensional modeling
-- **Cloud & Platform Engineering**: Kubernetes (k3s), Docker, Proxmox, Terraform, Ansible, CI/CD (Jenkins, GitLab, GitHub Actions), multi-cloud (AWS, Azure, GCP)
+I am currently deepening my Platform Engineering practice around **Kubernetes, GitOps, infrastructure as code and production-oriented developer platforms**.
 
 ---
 
-## 🛠️ Tech Stack
+## Core stack
 
-**AI / MLOps**  
-Ollama • Qdrant • LangChain • RAG • Semantic Search • Azure ML • n8n AI Pipelines
+**Systems & Infrastructure**  
+Linux · Docker · Proxmox · Nginx · Networking
 
-**Data Engineering**  
-Python • SQL • PySpark • Apache Airflow • dbt • Snowflake • Databricks • Azure Data Lake • CDC • SCD Type 2
+**Platform & Delivery**  
+Kubernetes · Helm · ArgoCD · GitLab CI/CD · Git · Bash · Automation
 
-**Infrastructure & SRE**  
-Kubernetes (k3s) • Docker • Proxmox • Nginx • Vault • Nexus • SonarQube • Terraform • Ansible
+**Observability & Reliability**  
+Checkmk · Prometheus · Grafana · Loki · Monitoring · Incident Response
 
-**Observability & Monitoring**  
-Grafana • Prometheus • Loki • Alloy • CheckMK • ELK • Alertmanager • Slack Alerting
+**Data & Resilience**  
+PostgreSQL · MariaDB · Backups · Recovery · Replication
 
-**Cloud & Automation**  
-AWS (S3, EC2) • Azure • GCP • Jenkins • GitLab CI/CD • GitHub Actions • Bash • Linux
+**Backend & Software**  
+Python · FastAPI · Django · APIs · Backend Systems
 
-**Backend development**  
-Django / FastAPI • .NET • Golang • NestJS 
-
----
-
-## 🔥 Recent Highlights
-
-- 🧠 Built **semantic search** over **1M+ administrative documents** using Ollama + Qdrant, reducing manual lookup by 60%
-- ⚡ Reduced **MTTD from 30 min to <5 min** with CheckMK + Grafana + Slack observability stack
-- 🚀 Decreased **deployment time from 2h to 15min** with CI/CD platform (Jenkins, Vault, Nexus, SonarQube)
-- 🎯 Achieved **99.95% uptime** on critical medical prescription system (10K transactions/day)
-- 🏗️ Migrated **6 production projects** to self-hosted Proxmox with **zero downtime**
+**Currently expanding**  
+Terraform · AWS · Azure · GCP
 
 ---
 
-## 🌱 Currently Learning
+## Selected work
 
-- Advanced **LLM orchestration** patterns (LangGraph, multi-agent systems)
-- **Kafka** for real-time AI inference pipelines
-- **Databricks** for scalable ML feature engineering
-- AWS-native AI/ML services (SageMaker, Bedrock)
-- Rust development
+### [Kubernetes Operations Lab](https://github.com/Mondin0/k8s_lab)
+
+Hands-on Kubernetes environment focused on operational reasoning and troubleshooting rather than manifest memorization.
+
+**Kubernetes · Helm · ArgoCD · Prometheus · Grafana · Loki**
+
+### [Monitoring & Observability Stack](https://github.com/Mondin0/stack-general-monitoring)
+
+Containerized monitoring stack for infrastructure and workloads using metrics collection and centralized visualization.
+
+**Docker · Prometheus · Grafana · Node Exporter · cAdvisor**
+
+### [trIAge — AI-assisted system](https://github.com/Mondin0/trIAge)
+
+Production-oriented backend system combining APIs, asynchronous workers, object storage, relational data and an LLM-assisted workflow with human validation.
+
+**Python · FastAPI · PostgreSQL · Redis · MinIO · Nginx · Docker · LLM**
+
+### [Defensive Security Agent](https://github.com/Mondin0/cibersec-agent)
+
+Authorization and policy core for a defensive security agent, built around explicit scope, fail-closed configuration and guarded actions.
+
+**Python · Docker · Security Policy**
 
 ---
 
-## 🤝 Let's Collaborate
+## Background
 
-I'm open to collaborating on:
-- Open-source **observability tools** and SRE utilities
-- **AI infrastructure** projects (RAG, semantic search, vector DBs)
-- **Data platform** tooling (Airflow operators, dbt packages, workflow automation)
-- **Platform engineering** initiatives (IaC, GitOps, Kubernetes operators)
-- **Backend solutions** using the necessary tools to achieve results
+- **Higher Technician in Software Development** — ISFDyT No. 124
+- **Microsoft Certified: Azure Data Scientist Associate**
+- **Data Engineer Professional Certification** — UTN
 
 ---
 
-## 📫 Reach Me
+## Current direction
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-mondino/)
-- 📧 [gabmondino@gmail.com](mailto:gabmondino@gmail.com)
-- 🐙 [GitHub](https://github.com/Mondin0)
+My primary direction is **Platform Engineering**: building and operating reliable platforms, improving developer workflows, strengthening observability and automation, and progressively expanding into Kubernetes, GitOps, IaC and cloud-native infrastructure.
+
+AI and backend engineering remain complementary areas where they intersect with production systems and platform architecture.
 
 ---
 
-⚡ **Fun fact**: I've been into AI since GPT-2 days and love mentoring engineers on SRE culture, incident response, and production-grade AI systems.
-## 🌐 Connect with Me
+## Contact
 
-- 📧 Email: [gabmondino@gmail.com](mailto:gabmondino@gmail.com)
-- 💼 LinkedIn: [Gabriel Mondino](https://www.linkedin.com/in/gabriel-mondino/)
-
-
-### 💡 "Technology changes fast, but the fundamentals stay the same: Linux runs everything that matters."
+- Website: **[gabrielmondino.com.ar](https://gabrielmondino.com.ar/)**
+- LinkedIn: [linkedin.com/in/gabriel-mondino](https://www.linkedin.com/in/gabriel-mondino/)
+- Email: [gabmondino@gmail.com](mailto:gabmondino@gmail.com)
